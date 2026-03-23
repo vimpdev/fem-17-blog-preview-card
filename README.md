@@ -21,7 +21,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-17-blog-preview-card/)
-<!-- - 📌 [Frontend Mentor Solution]() -->
+- 📌 [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-semantic-html-and-modern-css-bn4c8L0_Sp)
 
 ---
 
